@@ -22,7 +22,7 @@ print("Bot is ready !")
 print("\n")
 # ---------------#
 
-TOKEN = "1691828117:AAEst6SDv4Ex1pUdRd03ogjk-6B3YRuhr44"
+TOKEN = "TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 
